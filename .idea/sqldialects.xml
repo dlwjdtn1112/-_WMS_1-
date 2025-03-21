@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/Outbound/Out.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/Test_Project/WMS.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/WMS/Mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/mySpace/myspace.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/mysql/DataModeling/신세계무역-데이터베이스생성스크립트.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/mysql/WMS/wms.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/mysql/boards.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/mysql/employee.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/mysql/member1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/mysql/normalization/normalization01.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/mysql/test.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/mysql/transaction/8_code_01.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/mysql/users.sql" dialect="MySQL" />
+  </component>
+</project>
